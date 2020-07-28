@@ -234,13 +234,13 @@ defaults:
           fr: Vous êtes ici&#160;
       layout: "page"
       lang: "en"
-      langtoggle: true
+      langtoggle: false
       noMainContainer: false
       noContentTitle: false
       permalink: :path/:basename
       share: true
-      sitemenu: true
-      sitesearch: true
+      sitemenu: false
+      sitesearch: false
 
 # 6. Site settings
 analytics_google: ""

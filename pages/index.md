@@ -16,3 +16,14 @@
     fr: Gouvernement du Canada, services
   title: Canada.ca
 ---
+
+Content of the page 
+
+{% for somepage in site.pages %}
+  {% unless page.title == somepage.title %}
+  <li class="item">
+    <h3>{{somepage.title}}</h3>
+    <p>{{somepage.description.en}}</p>
+  </li>
+  {% endunless %}
+{% endfor %}
