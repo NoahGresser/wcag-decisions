@@ -23,7 +23,7 @@ You are encouraged to contribute to this document. Join the discussion, in eithe
 {% for somepage in site.pages %}
   {% unless page.title == somepage.title or page.lang != somepage.lang %}
   <li class="item">
-    <a href="{{somepage.url}}">{{somepage.contentTitle}}</a>
+    <a href="{{somepage.url | remove_first:'/'}}">{{somepage.contentTitle}}</a>
     <!-- <p>{{somepage.description.en}}</p> -->
   </li>
   {% endunless %}
