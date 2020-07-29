@@ -7,14 +7,11 @@
 				<!-- {% if page.sitesearch %}{% include sitesearch.html %}{% endif %} -->
 			</div>
 		</div>
-	<!-- {% if page.sitemenu %}
-	{% include sitemenu.html %}
-	{% else %} -->
-		<span data-trgt="mb-pnl" class="wb-menu hide"></span>
-	{% endif %}
-	{% if page.breadcrumbs %}
+
+	{% if page.url != '/index' %}
 	{% include breadcrumbs.html %}
 	{% endif %}
+
 	{% if page.signed %}
 	{% include sign-on-off.html %}
 	{% endif %}
