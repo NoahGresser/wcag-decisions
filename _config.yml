@@ -248,10 +248,10 @@ analytics_google_anonymize_ip: ""
 assets: "https://wet-boew.github.io/themes-dist"
 baseurl: ""
 css_inline: false # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
-description: "A Jekyll boilerplate to build a site with the Canada.ca template from GCWeb-Jekyll (wet-boew/gcweb-jekyll)" # Site description and default description, also used in jekyll-seo-tag
+description: "AAACT WCAG interpretation decisions" # Site description and default description, also used in jekyll-seo-tag
 email: ""
 encoding: utf-8 # Make sure the encoding is right
 lang: en-CA # Set the site language
 languages: ["en", "fr"]
 theme-name: GCWeb
-title: "gcweb-jekyll" # Site name or title, also used in jekyll-seo-tag
+title: "WCAG Decisions" # Site name or title, also used in jekyll-seo-tag
