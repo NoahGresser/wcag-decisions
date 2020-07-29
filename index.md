@@ -2,7 +2,6 @@
   altLangPrefix: index
   contentTitle: AAACT WCAG Interpretation Decisions
   lang: en
-  permalink: /
   section: message
   title: AAACT WCAG Interpretation Decisions
   dateModified: 2020-07-29
