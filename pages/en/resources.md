@@ -5,9 +5,9 @@ contentTitle: Resources for WCAG testing methods
 dateModified: 2020-07-30
 ---
 
-* [https://act-rules.github.io/rules/](ACT Rules Community Group (previously known as Auto-WCAG))  
+* [ACT Rules Community Group (previously known as Auto-WCAG)](https://act-rules.github.io/rules/)  
 "An open forum set up to document and harmonize the interpretation of W3C accessibility standards, such as WCAG and WAI-ARIA, for testing purposes". The focus of this site is on automated testing tools, but many rules also relate to manual testing.
-* [https://section508coordinators.github.io/TrustedTester/](Trusted Tester: Section 508 Conformance Test Process For Web)  
+* [Trusted Tester: Section 508 Conformance Test Process For Web)](https://section508coordinators.github.io/TrustedTester/)  
 A detailed method for (tool-assisted) manual testing used by many US government departments and specified in their procurements.
-* [https://section508coordinators.github.io/TrustedTester/appendixc.html](Trusted Tester quick reference)
+* [Trusted Tester quick reference](https://section508coordinators.github.io/TrustedTester/appendixc.html)
 Summarizes the detailed methods. What to do, not how to do it.
